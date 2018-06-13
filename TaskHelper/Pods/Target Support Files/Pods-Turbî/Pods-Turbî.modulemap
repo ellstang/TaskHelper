@@ -1,0 +1,6 @@
+framework module Pods_Turbi_ {
+  umbrella header "Pods-Turbî-umbrella.h"
+
+  export *
+  module * { export * }
+}
